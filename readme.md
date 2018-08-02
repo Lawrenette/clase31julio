@@ -10,7 +10,8 @@
 - servicios externos de limpieza
 
 #### Para buscar las Keywords 
-- ¿Cúal es el grupo objetivo? 
-- ¿A qué se dedica la empresa? 
-- ¿Tiene lugar físico? 
-- ¿Cúal es su lema?
+- ¿Cuál es el objetivo de la empresa?
+- ¿Qué es lo que vendes?
+- ¿Qué servicios ofreces?
+- ¿Cuál es el perfil de cliente?
+- ¿Tienes tu negocio en lugar físico?
